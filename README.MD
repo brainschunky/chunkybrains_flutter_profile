@@ -49,18 +49,18 @@ A dynamic social discovery and networking platform that helps users connect with
 * iOS: https://apps.apple.com/us/app/out2day-explore-with-friends/id6758880750
 ### Screenshots
 <p align="center">
-<img src="assets/out2day_app_screenshots/OUt2Day_1.jpg" width="220"/>
-<img src="assets/out2day_app_screenshots/Out2day_2.jpg" width="220"/>
-<img src="assets/out2day_app_screenshots/out2day_3.jpg" width="220"/>
-<img src="assets/out2day_app_screenshots/out2day_4.jpg" width="220"/>
-<img src="assets/out2day_app_screenshots/out2day_5.jpg" width="220"/>
-<img src="assets/out2day_app_screenshots/out2day_6.jpg" width="220"/>
-<img src="assets/out2day_app_screenshots/out2day_7.jpg" width="220"/>
+<img src="Out2Day/OUt2Day_1.jpg" width="220"/>
+<img src="Out2Day/Out2day_2.jpg" width="220"/>
+<img src="Out2Day/out2day_3.jpg" width="220"/>
+<img src="Out2Day/out2day_4.jpg" width="220"/>
+<img src="Out2Day/out2day_5.jpg" width="220"/>
+<img src="Out2Day/out2day_6.jpg" width="220"/>
+<img src="Out2Day/out2day_7.jpg" width="220"/>
 </p>
 <p align="center">
-<img src="assets/out2day_app_screenshots/OUt2Day_5.jpg" width="220"/>
-<img src="assets/out2day_app_screenshots/OUt2Day_6.jpg" width="220"/>
-<img src="assets/out2day_app_screenshots/OUt2Day_7.jpg" width="220"/>
+<img src="Out2Day/OUt2Day_5.jpg" width="220"/>
+<img src="Out2Day/OUt2Day_6.jpg" width="220"/>
+<img src="Out2Day/OUt2Day_7.jpg" width="220"/>
 </p>
 ---
 
@@ -76,14 +76,14 @@ AI-powered emotional wellness companion helping users navigate anxiety, relation
 ### Screenshots
 
 <p align="center">
-<img src="assets/cartha_app_screenshots/cartha_1.jpg" width="220"/>
-<img src="assets/cartha_app_screenshots/cartha_2.jpg" width="220"/>
-<img src="assets/cartha_app_screenshots/cartha_3.jpg" width="220"/>
+<img src="Cartha/cartha_1.jpg" width="220"/>
+<img src="Cartha/cartha_2.jpg" width="220"/>
+<img src="Cartha/cartha_3.jpg" width="220"/>
 </p>
 <p align="center">
-<img src="assets/cartha_app_screenshots/cartha_4.jpg" width="220"/>
-<img src="assets/cartha_app_screenshots/cartha_5.jpg" width="220"/>
-<img src="assets/cartha_app_screenshots/cartha_6.jpg" width="220"/>
+<img src="Cartha/cartha_4.jpg" width="220"/>
+<img src="Cartha/cartha_5.jpg" width="220"/>
+<img src="Cartha/cartha_6.jpg" width="220"/>
 </p>
 ---
 
@@ -97,14 +97,14 @@ Industrial CMMS platform for maintenance scheduling, asset tracking, KPI monitor
 
 ### Screenshots
 <p align="center">
-<img src="assets/anrml_app_screenshots/ANRML_1.jpg" width="220"/>
-<img src="assets/anrml_app_screenshots/ANRML_2.jpg" width="220"/>
-<img src="assets/anrml_app_screenshots/ANRML_3.jpg" width="220"/>
+<img src="ANRML/ANRML_1.jpg" width="220"/>
+<img src="ANRML/ANRML_2.jpg" width="220"/>
+<img src="ANRML/ANRML_3.jpg" width="220"/>
 </p>
 <p align="center">
-<img src="assets/anrml_app_screenshots/ANRML_4.jpg" width="220"/>
-<img src="assets/anrml_app_screenshots/ANRML_5.jpg" width="220"/>
-<img src="assets/anrml_app_screenshots/ANRML_6.jpg" width="220"/>
+<img src="ANRML/ANRML_4.jpg" width="220"/>
+<img src="ANRML/ANRML_5.jpg" width="220"/>
+<img src="ANRML/ANRML_6.jpg" width="220"/>
 </p>
 ---
 
@@ -120,15 +120,15 @@ A modern Digital QR Menu platform designed for restaurants and hospitality busin
 ### Screenshots
 
 <p align="center">
-<img src="assets/menu_bazaar_app_screenshots/menu_bazaar_1.jpg" width="220"/>
-<img src="assets/menu_bazaar_app_screenshots/menu_bazaar_2.jpg" width="220"/>
-<img src="assets/menu_bazaar_app_screenshots/menu_bazaar_3.jpg" width="220"/>
+<img src="MenuBazaar/menu_bazaar_1.jpg" width="220"/>
+<img src="MenuBazaar/menu_bazaar_2.jpg" width="220"/>
+<img src="MenuBazaar/menu_bazaar_3.jpg" width="220"/>
 </p>
 <p align="center">
-<img src="assets/menu_bazaar_app_screenshots/menu_bazaar_4.jpg" width="220"/>
-<img src="assets/menu_bazaar_app_screenshots/menu_bazaar_5.jpg" width="220"/>
-<img src="assets/menu_bazaar_app_screenshots/menu_bazaar_6.jpg" width="220"/>
-<img src="assets/menu_bazaar_app_screenshots/menu_bazaar_7.jpg" width="220"/>
+<img src="MenuBazaar/menu_bazaar_4.jpg" width="220"/>
+<img src="MenuBazaar/menu_bazaar_5.jpg" width="220"/>
+<img src="MenuBazaar/menu_bazaar_6.jpg" width="220"/>
+<img src="MenuBazaar/menu_bazaar_7.jpg" width="220"/>
 </p>
 ---
 
@@ -144,14 +144,14 @@ Ongoing Production Stage
 ### Screenshots
 
 <p align="center">
-<img src="assets/coco_app_screenshots/coco_1.jpg" width="220"/>
-<img src="assets/coco_app_screenshots/coco_2.jpg" width="220"/>
-<img src="assets/coco_app_screenshots/coco_3.jpg" width="220"/>
+<img src="COCO/coco_1.jpg" width="220"/>
+<img src="COCO/coco_2.jpg" width="220"/>
+<img src="COCO/coco_3.jpg" width="220"/>
 </p>
 <p align="center">
-<img src="assets/coco_app_screenshots/coco_4.jpg" width="220"/>
-<img src="assets/coco_app_screenshots/coco_5.jpg" width="220"/>
-<img src="assets/coco_app_screenshots/coco_6.jpg" width="220"/>
+<img src="COCO/coco_4.jpg" width="220"/>
+<img src="COCO/coco_5.jpg" width="220"/>
+<img src="COCO/coco_6.jpg" width="220"/>
 </p>
 ---
 
@@ -167,14 +167,14 @@ Enterprise-grade workforce management solution featuring attendance, leave workf
 ### Screenshots
 
 <p align="center">
-<img src="assets/wilson_app_screenshots/wilson_1.jpg" width="220"/>
-<img src="assets/wilson_app_screenshots/wilson_2.jpg" width="220"/>
-<img src="assets/wilson_app_screenshots/wilson_3.jpg" width="220"/>
+<img src="Wilson/wilson_1.jpg" width="220"/>
+<img src="Wilson/wilson_2.jpg" width="220"/>
+<img src="Wilson/wilson_3.jpg" width="220"/>
 </p>
 <p align="center">
-<img src="assets/wilson_app_screenshots/wilson_4.jpg" width="220"/>
-<img src="assets/wilson_app_screenshots/wilson_5.jpg" width="220"/>
-<img src="assets/wilson_app_screenshots/wilson_6.jpg" width="220"/>
+<img src="Wilson/wilson_4.jpg" width="220"/>
+<img src="Wilson/wilson_5.jpg" width="220"/>
+<img src="Wilson/wilson_6.jpg" width="220"/>
 </p>
 ---
 
@@ -191,17 +191,17 @@ Community assistance platform connecting users with housing, food, healthcare, a
 ### Screenshots
 
 <p align="center">
-<img src="assets/utah_211_app_screenshots/Utah_1.jpg" width="220"/>
-<img src="assets/utah_211_app_screenshots/utah_2.jpg" width="220"/>
-<img src="assets/utah_211_app_screenshots/utah_3.jpg" width="220"/>
-<img src="assets/utah_211_app_screenshots/utah_4.jpg" width="220"/>
-<img src="assets/utah_211_app_screenshots/utah_5.jpg" width="220"/>
-<img src="assets/utah_211_app_screenshots/utah_6.jpg" width="220"/>
+<img src="Utah211/Utah_1.jpg" width="220"/>
+<img src="Utah211/utah_2.jpg" width="220"/>
+<img src="Utah211/utah_3.jpg" width="220"/>
+<img src="Utah211/utah_4.jpg" width="220"/>
+<img src="Utah211/utah_5.jpg" width="220"/>
+<img src="Utah211/utah_6.jpg" width="220"/>
 </p>
 <p align="center">
-<img src="assets/utah_211_app_screenshots/Utah_4.jpg" width="220"/>
-<img src="assets/utah_211_app_screenshots/Utah_5.jpg" width="220"/>
-<img src="assets/utah_211_app_screenshots/Utah_6.jpg" width="220"/>
+<img src="Utah211/Utah_4.jpg" width="220"/>
+<img src="Utah211/Utah_5.jpg" width="220"/>
+<img src="Utah211/Utah_6.jpg" width="220"/>
 </p>
 ---
 
@@ -217,15 +217,15 @@ Real estate marketplace helping users discover apartments, homes, and investment
 ### Screenshots
 
 <p align="center">
-<img src="assets/baghdad_home_app_screenshots/baghdad_home_1.jpg" width="220"/>
-<img src="assets/baghdad_home_app_screenshots/baghdad_home_2.jpg" width="220"/>
-<img src="assets/baghdad_home_app_screenshots/baghdad_home_3.jpg" width="220"/>
+<img src="BaghdadHomes/baghdad_home_1.jpg" width="220"/>
+<img src="BaghdadHomes/baghdad_home_2.jpg" width="220"/>
+<img src="BaghdadHomes/baghdad_home_3.jpg" width="220"/>
 </p>
 <p align="center">
-<img src="assets/baghdad_home_app_screenshots/baghdad_home_4.jpg" width="220"/>
-<img src="assets/baghdad_home_app_screenshots/baghdad_home_5.jpg" width="220"/>
-<img src="assets/baghdad_home_app_screenshots/baghdad_home_6.jpg" width="220"/>
-<img src="assets/baghdad_home_app_screenshots/baghdad_home_7.jpg" width="220"/>
+<img src="BaghdadHomes/baghdad_home_4.jpg" width="220"/>
+<img src="BaghdadHomes/baghdad_home_5.jpg" width="220"/>
+<img src="BaghdadHomes/baghdad_home_6.jpg" width="220"/>
+<img src="BaghdadHomes/baghdad_home_7.jpg" width="220"/>
 </p>
 ---
 
