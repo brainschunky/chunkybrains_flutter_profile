@@ -1,78 +1,276 @@
 # ChunkyBrains 🧠🚀
- ### Premium Android & Flutter Mobile Engineering Studio
 
-Welcome to *ChunkyBrains. We are a highly focused mobile development agency engineering top-tier, pixel-perfect, and exceptionally performant mobile applications using **Flutter* and *Native Android*.
+### Premium Flutter & Android Engineering Studio
 
----
-
-## 🛠️ Our Core Specialization & Tech Stack
-
-* *Cross-Platform Mobile:* Flutter & Dart (Expertise in complex layouts, multi-threaded performance, and custom native channels)
- * *Native Android:* Kotlin, Java, Jetpack Compose, Android SDK Architecture
- * *State Management Mastery:* GetX, Bloc, Provider, Clean MVC/MVVM Data-Flows
- * *Hardware & Integrations:* Background media services, Advanced Camera API integrations, and Secure Local Storage Cache
+Welcome to **ChunkyBrains**. We are a specialized mobile engineering studio focused on building scalable, high-performance, pixel-perfect mobile applications using **Flutter** and **Native Android** technologies.
 
 ---
 
-## 📱 Our Featured Live & Production Products
+## 🛠️ Core Expertise & Technology Stack
 
-Humare developed high-end products jo live market mein production par chal rahe hain ya development pipeline mein hain:
+### Cross Platform Development
 
-### 1. OUT2Day 👋📍 *(Flutter)*
-  A dynamic social discovery and networking platform that helps users find and connect with people who share similar interests. Features secure real-time chatting modules, location-based proximity matchmaking, and seamless community building to bridge virtual conversations into real-world friendships.
-👉 **[Download on Google Play Store](https://play.google.com/store/apps/details?id=com.app.out2day) | [Download on Apple App Store](https://apps.apple.com/us/app/out2day-explore-with-friends/id6758880750)** ---
+* Flutter
+* Dart
+* Firebase
+* REST APIs
+* Native Platform Channels
 
+### Native Android Development
 
-### 2. Cartha AI 🧠✨ (Flutter)
- Cartha AI is like a therapist in your pocket. It gives helpful and private advice on things like anxiety, relationships, self-identity, and more. The AI is trained to guide you with care, just like talking to a real person you can trust.
+* Kotlin
+* Java
+* Jetpack Compose
+* Android SDK
+* Material Design
 
-👉 **[Download on Google Play Store](https://play.google.com/store/apps/details?id=com.cartha_ai_mobile) | [Download on Apple App Store](https://apps.apple.com/us/app/cartha-ai/id6737981702)**
+### Architecture & State Management
 
----
+* Clean Architecture
+* MVC / MVVM
+* GetX
+* Bloc
+* Provider
 
-### 3. ANRML 🏭⚙️ *(Flutter)*
-    A comprehensive Computerized Maintenance Management System (CMMS) designed to schedule, manage, and track industrial maintenance activities. It facilitates smooth operational       workflows, logs historical technical data, and generates key maintenance KPIs to optimize the overall efficiency of manufacturing processes.
+### Advanced Integrations
 
-👉 **[Download on Google Play Store](https://play.google.com/store/apps/details?id=com.anrml)** 
----
-
-
-### 4. COCO 🐶🐱 (Flutter)
- COCO app is your all-in-one solution for managing your pet’s health, grooming, and nutrition with ease. Users can book appointments with nearby vets, schedule grooming sessions, and purchase pet food with fast doorstep delivery.
-
-👉 Status: Ongoing Production Stage
-
----
-
-
-### 5. Wilson 📊💼 (Flutter)
- A complete staff and task management solution designed to help businesses manage daily operations efficiently. Includes location-based task assignments, built-in leave management flows, and extensive team tracking capabilities.
-
-👉 Status: Ongoing Enterprise Stage
-
----
-
-### 6. 211 Utah 🇺🇸📍 (Native Android)
- A highly crucial community support platform connecting users to human service resources in Utah (housing assistance, food programs, healthcare, etc.) using built-in geo-location tracking and one-touch support center communication.
-
-👉 **[Download on Google Play Store](https://play.google.com/store/apps/details?id=ncr.com.ncr&hl=en) | [Download on Apple App Store](https://apps.apple.com/us/app/211-utah/id1167593755)**
+* Real-Time Communication
+* Location Services
+* Camera & Media Processing
+* Push Notifications
+* Background Services
+* Secure Local Storage
 
 ---
 
-### 7. Baghdad Home App 🏢🇮🇶 (Flutter)
- A comprehensive real-time listing engine of residential properties across Baghdad city, Iraq. It showcases apartments, houses, and modern residential complexes, helping local citizens discover real estate opportunities smoothly.
+# 📱 Featured Applications
 
-👉 **[Download on Google Play Store](https://play.google.com/store/apps/details?id=com.baghdadhomes)**
+## 1. OUT2Day 👋📍 *(Flutter)*
+
+A dynamic social discovery and networking platform that helps users connect with people sharing similar interests through location-aware matchmaking and real-time communication.
+
+### Downloads
+
+* Android: https://play.google.com/store/apps/details?id=com.app.out2day
+* iOS: https://apps.apple.com/us/app/out2day-explore-with-friends/id6758880750
+
+### Screenshots
+
+<p align="center">
+<img src="assets/out2day_app_screenshots/OUt2Day_1.jpg" width="220"/>
+<img src="assets/out2day_app_screenshots/OUt2Day_2.jpg" width="220"/>
+<img src="assets/out2day_app_screenshots/OUt2Day_3.jpg" width="220"/>
+<img src="assets/out2day_app_screenshots/OUt2Day_4.jpg" width="220"/>
+</p>
+
+<p align="center">
+<img src="assets/out2day_app_screenshots/OUt2Day_5.jpg" width="220"/>
+<img src="assets/out2day_app_screenshots/OUt2Day_6.jpg" width="220"/>
+<img src="assets/out2day_app_screenshots/OUt2Day_7.jpg" width="220"/>
+</p>
 
 ---
 
-## 🎯 Our Operational Standards
+## 2. Cartha AI 🧠✨ *(Flutter)*
 
-* *Architecture-First Code:* We write highly decoupled, modular, and audit-ready clean codebases (MVC/MVVM), making it seamless to scale apps from small prototypes to million-user systems.
- * *Flawless UI/UX Execution:* We strictly align complex visual geometries with responsive layout widgets to match design mockups frame-by-frame on any screen size.
+AI-powered emotional wellness companion helping users navigate anxiety, relationships, self-growth, and mental wellbeing.
+
+### Downloads
+
+* Android: https://play.google.com/store/apps/details?id=com.cartha_ai_mobile
+* iOS: https://apps.apple.com/us/app/cartha-ai/id6737981702
+
+### Screenshots
+
+<p align="center">
+<img src="assets/cartha_app_screenshots/cartha_1.jpg" width="220"/>
+<img src="assets/cartha_app_screenshots/cartha_2.jpg" width="220"/>
+<img src="assets/cartha_app_screenshots/cartha_3.jpg" width="220"/>
+</p>
+
+<p align="center">
+<img src="assets/cartha_app_screenshots/cartha_4.jpg" width="220"/>
+<img src="assets/cartha_app_screenshots/cartha_5.jpg" width="220"/>
+<img src="assets/cartha_app_screenshots/cartha_6.jpg" width="220"/>
+</p>
 
 ---
 
-## 📬 Collaborate With Us
- * 🌐 *Website:* [chunkybrains.com](https://chunkybrains.com)
+## 3. ANRML 🏭⚙️ *(Flutter)*
 
+Industrial CMMS platform for maintenance scheduling, asset tracking, KPI monitoring, and operational workflow optimization.
+
+### Downloads
+
+* Android: https://play.google.com/store/apps/details?id=com.anrml
+
+### Screenshots
+
+<p align="center">
+<img src="assets/anrml_app_screenshots/ANRML_1.jpg" width="220"/>
+<img src="assets/anrml_app_screenshots/ANRML_2.jpg" width="220"/>
+<img src="assets/anrml_app_screenshots/ANRML_3.jpg" width="220"/>
+</p>
+
+<p align="center">
+<img src="assets/anrml_app_screenshots/ANRML_4.jpg" width="220"/>
+<img src="assets/anrml_app_screenshots/ANRML_5.jpg" width="220"/>
+<img src="assets/anrml_app_screenshots/ANRML_6.jpg" width="220"/>
+</p>
+
+---
+
+## 4. COCO 🐶🐱 *(Flutter)*
+
+Pet care ecosystem offering veterinary appointments, grooming services, nutrition management, and pet product delivery.
+
+### Status
+
+🚧 Ongoing Production Stage
+
+### Screenshots
+
+<p align="center">
+<img src="assets/coco_app_screenshots/coco_1.jpg" width="220"/>
+<img src="assets/coco_app_screenshots/coco_2.jpg" width="220"/>
+<img src="assets/coco_app_screenshots/coco_3.jpg" width="220"/>
+</p>
+
+<p align="center">
+<img src="assets/coco_app_screenshots/coco_4.jpg" width="220"/>
+<img src="assets/coco_app_screenshots/coco_5.jpg" width="220"/>
+<img src="assets/coco_app_screenshots/coco_6.jpg" width="220"/>
+</p>
+
+---
+
+## 5. Wilson 📊💼 *(Flutter)*
+
+Enterprise-grade workforce management solution featuring attendance, leave workflows, task assignment, and location-based operations tracking.
+
+### Status
+
+🏢 Enterprise Production
+
+### Screenshots
+
+<p align="center">
+<img src="assets/wilson_app_screenshots/wilson_1.jpg" width="220"/>
+<img src="assets/wilson_app_screenshots/wilson_2.jpg" width="220"/>
+<img src="assets/wilson_app_screenshots/wilson_3.jpg" width="220"/>
+</p>
+
+<p align="center">
+<img src="assets/wilson_app_screenshots/wilson_4.jpg" width="220"/>
+<img src="assets/wilson_app_screenshots/wilson_5.jpg" width="220"/>
+<img src="assets/wilson_app_screenshots/wilson_6.jpg" width="220"/>
+</p>
+
+---
+
+## 6. 211 Utah 🇺🇸📍 *(Native Android)*
+
+Community assistance platform connecting users with housing, food, healthcare, and social support services throughout Utah.
+
+### Downloads
+
+* Android: https://play.google.com/store/apps/details?id=ncr.com.ncr
+* iOS: https://apps.apple.com/us/app/211-utah/id1167593755
+
+### Screenshots
+
+<p align="center">
+<img src="assets/utah_211_app_screenshots/Utah_1.jpg" width="220"/>
+<img src="assets/utah_211_app_screenshots/Utah_2.jpg" width="220"/>
+<img src="assets/utah_211_app_screenshots/Utah_3.jpg" width="220"/>
+</p>
+
+<p align="center">
+<img src="assets/utah_211_app_screenshots/Utah_4.jpg" width="220"/>
+<img src="assets/utah_211_app_screenshots/Utah_5.jpg" width="220"/>
+<img src="assets/utah_211_app_screenshots/Utah_6.jpg" width="220"/>
+</p>
+
+---
+
+## 7. Baghdad Home 🏢🇮🇶 *(Flutter)*
+
+Real estate marketplace helping users discover apartments, homes, and investment properties across Iraq.
+
+### Downloads
+
+* Android: https://play.google.com/store/apps/details?id=com.baghdadhomes
+
+### Screenshots
+
+<p align="center">
+<img src="assets/baghdad_home_app_screenshots/baghdad_home_1.jpg" width="220"/>
+<img src="assets/baghdad_home_app_screenshots/baghdad_home_2.jpg" width="220"/>
+<img src="assets/baghdad_home_app_screenshots/baghdad_home_3.jpg" width="220"/>
+</p>
+
+<p align="center">
+<img src="assets/baghdad_home_app_screenshots/baghdad_home_4.jpg" width="220"/>
+<img src="assets/baghdad_home_app_screenshots/baghdad_home_5.jpg" width="220"/>
+<img src="assets/baghdad_home_app_screenshots/baghdad_home_6.jpg" width="220"/>
+<img src="assets/baghdad_home_app_screenshots/baghdad_home_7.jpg" width="220"/>
+</p>
+
+---
+
+## 8. MenuBazaar 🍽️📱 *(Flutter)*
+
+MenuBazaar is a modern Digital QR Menu platform designed specifically for restaurants, cafés, hotels, food courts, and hospitality businesses. It enables businesses to create and manage digital menus, generate QR codes for tables, and provide customers with a completely contactless ordering experience.
+
+Customers simply scan a QR code using their phone camera and instantly access the restaurant's live digital menu. Business owners can update products, prices, categories, and availability in real time without reprinting physical menus.
+
+### Key Features
+
+* Digital QR Menu System
+* Contactless Dining Experience
+* Real-Time Menu Updates
+* Product & Category Management
+* Restaurant Dashboard
+* Unlimited Menu Changes
+* 100% Commission Free
+* Safe & Secure Ordering Experience
+
+### Downloads
+
+* Android: https://play.google.com/store/apps/details?id=chunkybrains.menubazaar&pli=1
+
+### Screenshots
+
+<p align="center">
+<img src="assets/menu_bazaar_app_screenshots/menu_bazaar_1.jpg" width="220"/>
+<img src="assets/menu_bazaar_app_screenshots/menu_bazaar_2.jpg" width="220"/>
+<img src="assets/menu_bazaar_app_screenshots/menu_bazaar_3.jpg" width="220"/>
+</p>
+
+<p align="center">
+<img src="assets/menu_bazaar_app_screenshots/menu_bazaar_4.jpg" width="220"/>
+<img src="assets/menu_bazaar_app_screenshots/menu_bazaar_5.jpg" width="220"/>
+<img src="assets/menu_bazaar_app_screenshots/menu_bazaar_6.jpg" width="220"/>
+<img src="assets/menu_bazaar_app_screenshots/menu_bazaar_7.jpg" width="220"/>
+</p>
+
+---
+
+
+## 🎯 Engineering Standards
+
+* Clean & Scalable Architecture
+* Production Ready Codebases
+* Responsive UI Across Devices
+* High Performance Rendering
+* Enterprise-Level Maintainability
+* Security Focused Development
+* Long-Term Product Scalability
+
+---
+
+## 🤝 Collaborate With Us
+
+🌐 Website: https://chunkybrains.com
+
+📧 Business Inquiries: [contact@chunkybrains.com](mailto:contact@chunkybrains.com)
