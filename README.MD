@@ -247,7 +247,6 @@ Real estate marketplace helping users discover apartments, homes, and investment
 
 
  Email: chunkybrains123@gmail.com
- 
  Website: https://chunkybrains.com
 
 
