@@ -220,21 +220,15 @@ Real estate marketplace helping users discover apartments, homes, and investment
 🎯 Engineering Standards
 
 Clean & Scalable Architecture
-
 Production Ready Codebases
-
 Responsive UI Across Devices
-
 High Performance Rendering
-
 Enterprise-Level Maintainability
-
 Security Focused Development
-
 Long-Term Product Scalability
 
-🤝 Collaborate With Us
 
+🤝 Collaborate With Us
 🌐 Website: https://chunkybrains.com
 
 
