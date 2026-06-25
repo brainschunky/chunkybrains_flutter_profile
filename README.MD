@@ -278,5 +278,3 @@ Customers simply scan a QR code using their phone camera and instantly access th
 ## 🤝 Collaborate With Us
 
 🌐 Website: https://chunkybrains.com
-
-📧 Business Inquiries: [contact@chunkybrains.com](mailto:contact@chunkybrains.com)
