@@ -58,9 +58,12 @@ A dynamic social discovery and networking platform that helps users connect with
 
 <p align="center">
 <img src="assets/out2day_app_screenshots/OUt2Day_1.jpg" width="220"/>
-<img src="assets/out2day_app_screenshots/OUt2Day_2.jpg" width="220"/>
-<img src="assets/out2day_app_screenshots/OUt2Day_3.jpg" width="220"/>
-<img src="assets/out2day_app_screenshots/OUt2Day_4.jpg" width="220"/>
+<img src="assets/out2day_app_screenshots/Out2day_2.jpg" width="220"/>
+<img src="assets/out2day_app_screenshots/out2day_3.jpg" width="220"/>
+<img src="assets/out2day_app_screenshots/out2day_4.jpg" width="220"/>
+<img src="assets/out2day_app_screenshots/out2day_5.jpg" width="220"/>
+<img src="assets/out2day_app_screenshots/out2day_6.jpg" width="220"/>
+<img src="assets/out2day_app_screenshots/out2day_7.jpg" width="220"/>
 </p>
 
 <p align="center">
