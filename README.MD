@@ -217,15 +217,22 @@ Real estate marketplace helping users discover apartments, homes, and investment
 </p>
 ---
 
+
+
 🎯 Engineering Standards
 
-Clean & Scalable Architecture
-Production Ready Codebases
-Responsive UI Across Devices
-High Performance Rendering
-Enterprise-Level Maintainability
-Security Focused Development
-Long-Term Product Scalability
+* Clean & Scalable Architecture
+
+* Production Ready Codebases
+
+* Responsive UI Across Devices
+
+* High Performance Rendering
+
+* Enterprise-Level Maintainability
+
+^ Security Focused Development
+^ Long-Term Product Scalability
 
 
 🤝 Collaborate With Us
