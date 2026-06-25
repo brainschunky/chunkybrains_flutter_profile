@@ -252,7 +252,10 @@ Real estate marketplace helping users discover apartments, homes, and investment
 
 
 ## 🏗️ How We Architecture Our Apps (Code Preview) 
-We follow a strict **Clean Architecture + MVVM** approach. Click below to view our standard high-performance production code blueprint: <details><summary><b>⚡ Click to View Our Clean Domain UseCase (Dart)</b></summary>```dart // domain/usecases/get_user_profile_usecase.dart abstract class UseCase<Type, Params> {   Future<Either<Failure, Type>> call(Params params); } class GetUserProfileUseCase implements UseCase<UserEntity, String> {   final UserRepository repository;   GetUserProfileUseCase({required this.repository});   @override   Future<Either<Failure, UserEntity>> call(String userId) async {     return await repository.getUserProfile(userId);   } }
+We follow a strict **Clean Architecture + MVVM** approach. Click below to view our standard high-performance production code blueprint: <details><summary><b>⚡ Click to View Our Clean Domain UseCase (Dart)</b></summary>
+```dart
+// domain/usecases/get_user_profile_usecase.dart 
+abstract class UseCase<Type, Params> {   Future<Either<Failure, Type>> call(Params params); } class GetUserProfileUseCase implements UseCase<UserEntity, String> {   final UserRepository repository;   GetUserProfileUseCase({required this.repository});   @override   Future<Either<Failure, UserEntity>> call(String userId) async {     return await repository.getUserProfile(userId);   } }
 
 ## 🎯 Engineering Standards
 
