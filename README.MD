@@ -206,7 +206,7 @@ Community assistance platform connecting users with housing, food, healthcare, a
 ---
 
 
-## 8. Baghdad Home 🇮🇶 *(Native Android)*
+## 8. Baghdad Home *(Native Android)*
 Real estate marketplace helping users discover apartments, homes, and investment properties across Iraq.
 
 
