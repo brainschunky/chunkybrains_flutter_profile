@@ -45,7 +45,7 @@ Welcome to **ChunkyBrains**. We are a specialized mobile engineering studio focu
 
 # 📱 Featured Applications
 
-## 1. OUT2Day 👋📍 *(Flutter)*
+## 1. Out2Day 👋📍 *(Flutter)*
 
 A dynamic social discovery and networking platform that helps users connect with people sharing similar interests through location-aware matchmaking and real-time communication.
 
