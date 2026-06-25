@@ -23,24 +23,7 @@ Welcome to **ChunkyBrains**. We are a specialized mobile engineering studio focu
 * Jetpack Compose
 * Android SDK
 * Material Design
- 
-### Architecture & State Management
- 
-* Clean Architecture
-* MVC / MVVM
-* GetX
-* Bloc
-* Provider
- 
-### Advanced Integrations
- 
-* Real-Time Communication
-* Location Services
-* Camera & Media Processing
-* Push Notifications
-* Background Services
-* Secure Local Storage
- 
+
 ---
  
 # 📱 Featured Applications
