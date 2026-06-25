@@ -1,6 +1,6 @@
 # ChunkyBrains Mobile Apps Portfolio
 
-Premium Flutter & Android Engineering Studio
+## About
 
 At ChunkyBrains, we build mobile apps that are fast, reliable, and designed to deliver great user experiences. From startup ideas to enterprise solutions, we help businesses turn their vision into high-quality Android and Flutter applications that people love to use.
 
